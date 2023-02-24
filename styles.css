@@ -2,4 +2,7 @@
 /* Your CSS Code here. */
 #actor, #quote{
 	bactground-color: gray;
+	color: blue;
+	padding: 20px:
+	margin: 20px 0px;
 }
